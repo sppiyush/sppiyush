@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **piyushpkcorp@gmail.com**
 
-- ⚡ Fun fact **Just give me a mic and a can of beer and I will keep you rolling**
+- ⚡ Fun fact **Just give me a mic and a mug of coffee and I will keep you rolling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
