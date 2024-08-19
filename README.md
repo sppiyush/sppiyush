@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
-<h3 align="center">A highly skilled Full Stack Developer and Data Analyst from India, bringing a wealth of expertise and enthusiasm to every project.</h3>
+<h3 align="center">A highly skilled Data Analyst and a Full Stack Developer from India, bringing a wealth of expertise and enthusiasm to every project.</h3>
 <img align="left" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sppiyush&label=Profile%20views&color=0e75b6&style=flat" alt="sppiyush" /> </p>
